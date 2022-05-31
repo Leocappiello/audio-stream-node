@@ -1,0 +1,6 @@
+@api = http://localhost:5000
+
+GET {{api}}/tracks/1
+
+###
+POST {{api}}/tracks
